@@ -1,4 +1,4 @@
-End-to-End Multimodal LLMOps System for Video Compliance Analysis (Azure)
+**End-to-End Multimodal LLMOps System for Video Compliance Analysis (Azure)**
 📌 Overview
 
 This project implements a production-ready Multimodal LLMOps pipeline that performs automated compliance analysis on video content.
@@ -181,3 +181,4 @@ Machine Learning / GenAI Engineer
 ⭐ Final Note
 
 This project demonstrates enterprise-level GenAI engineering, combining multimodal AI, RAG, LLMOps, orchestration, and observability, closely mirroring real-world production systems used in regulated industries.
+
